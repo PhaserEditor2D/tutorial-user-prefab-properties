@@ -1,4 +1,4 @@
-# Tutorial - User Prefab Properties
+# Tutorial - Prefab User Properties
 
 This is the code of the video: [User prefab properties. Step by step.](https://youtu.be/3ppowkkgz8Q)
 
