@@ -1,0 +1,111 @@
+{
+    "id": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+    "sceneType": "PREFAB",
+    "settings": {
+        "sceneType": "PREFAB",
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": ""
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "3878cb8e-4838-4285-bb78-41eb51584fbf",
+            "label": "shipYellow_manned",
+            "scope": "CLASS",
+            "texture": {
+                "key": "shipYellow_manned"
+            },
+            "x": 149,
+            "y": 429
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "prefabProperties": [
+        {
+            "name": "deltaX",
+            "label": "Delta X",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "minX",
+            "label": "Min X",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "maxX",
+            "label": "Max X",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "deltaY",
+            "label": "Delta Y",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "minY",
+            "label": "Min Y",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "maxY",
+            "label": "Max Y",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "deltaAngle",
+            "label": "Delta Angle",
+            "tooltip": "Property 1",
+            "defValue": 0,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "minAngle",
+            "label": "Min Angle",
+            "tooltip": "Property 1",
+            "defValue": -360,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "maxAngle",
+            "label": "Max Angle",
+            "tooltip": "Property 1",
+            "defValue": 360,
+            "type": {
+                "id": "number"
+            }
+        }
+    ]
+}

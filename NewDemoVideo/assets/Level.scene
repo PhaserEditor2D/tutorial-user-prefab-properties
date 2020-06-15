@@ -1,0 +1,131 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "e7092151-dfd2-47d4-8a3f-c055c8d5234d",
+            "label": "universe",
+            "texture": {
+                "key": "universe"
+            },
+            "x": 338,
+            "y": 332,
+            "scaleX": 1.114157029781283,
+            "scaleY": 1.171495418756293
+        },
+        {
+            "prefabId": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+            "id": "06bd7125-c2ed-47e3-8af0-24e16b354e32",
+            "unlock": [
+                "texture",
+                "deltaAngle"
+            ],
+            "label": "laserGreen2",
+            "deltaAngle": -10,
+            "texture": {
+                "key": "laserGreen2"
+            },
+            "x": 683,
+            "y": 510
+        },
+        {
+            "prefabId": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+            "id": "28d366c7-ea0d-46fc-bb28-f2f5646767ed",
+            "unlock": [
+                "texture",
+                "deltaAngle"
+            ],
+            "label": "laserYellow_burst",
+            "deltaAngle": 5,
+            "texture": {
+                "key": "laserYellow_burst"
+            },
+            "x": 140,
+            "y": 153
+        },
+        {
+            "prefabId": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+            "id": "454184cb-7404-47a1-968f-c326b3c08dcc",
+            "unlock": [
+                "texture",
+                "deltaAngle"
+            ],
+            "label": "laserBlue3",
+            "deltaAngle": -10,
+            "texture": {
+                "key": "laserBlue3"
+            },
+            "x": 593,
+            "y": 155
+        },
+        {
+            "prefabId": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+            "id": "a4bb51b8-26bd-4563-bed4-ff946e240ca9",
+            "unlock": [
+                "deltaX",
+                "minX",
+                "maxX",
+                "deltaAngle",
+                "minAngle",
+                "maxAngle"
+            ],
+            "label": "shipYellow_manned",
+            "deltaX": 5,
+            "minX": 50,
+            "maxX": 300,
+            "deltaAngle": 4,
+            "minAngle": -30,
+            "maxAngle": 30,
+            "x": 149,
+            "y": 429
+        },
+        {
+            "prefabId": "ad05f8a5-b954-46f2-b122-db9c7dcb9cdf",
+            "id": "169211a3-af0c-46f7-82ef-2659c8f8fd7f",
+            "unlock": [
+                "texture",
+                "deltaX",
+                "minX",
+                "maxX",
+                "deltaY",
+                "minY",
+                "maxY"
+            ],
+            "label": "shipGreen_manned",
+            "deltaX": -5,
+            "minX": 50,
+            "maxX": 600,
+            "deltaY": -5,
+            "minY": 50,
+            "maxY": 600,
+            "texture": {
+                "key": "shipGreen_manned"
+            },
+            "x": 529,
+            "y": 495
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    },
+    "lists": [
+        {
+            "id": "eaeb6d37-2c48-456d-9485-9d200991d31e",
+            "label": "animatedObjects",
+            "objectIds": [
+                "169211a3-af0c-46f7-82ef-2659c8f8fd7f",
+                "a4bb51b8-26bd-4563-bed4-ff946e240ca9",
+                "454184cb-7404-47a1-968f-c326b3c08dcc",
+                "28d366c7-ea0d-46fc-bb28-f2f5646767ed",
+                "06bd7125-c2ed-47e3-8af0-24e16b354e32"
+            ]
+        }
+    ]
+}

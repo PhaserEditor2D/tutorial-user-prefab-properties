@@ -1,0 +1,62 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/dino.png",
+                "type": "image",
+                "key": "dino"
+            },
+            {
+                "url": "assets/Level.js",
+                "type": "sceneFile",
+                "key": "Level"
+            },
+            {
+                "url": "assets/universe.jpg",
+                "type": "image",
+                "key": "universe"
+            },
+            {
+                "url": "assets/shipYellow_manned.png",
+                "type": "image",
+                "key": "shipYellow_manned"
+            },
+            {
+                "url": "assets/shipGreen_manned.png",
+                "type": "image",
+                "key": "shipGreen_manned"
+            },
+            {
+                "url": "assets/shipBlue_manned.png",
+                "type": "image",
+                "key": "shipBlue_manned"
+            },
+            {
+                "url": "assets/laserYellow_burst.png",
+                "type": "image",
+                "key": "laserYellow_burst"
+            },
+            {
+                "url": "assets/laserGreen2.png",
+                "type": "image",
+                "key": "laserGreen2"
+            },
+            {
+                "url": "assets/laserBlue3.png",
+                "type": "image",
+                "key": "laserBlue3"
+            },
+            {
+                "url": "assets/AnimatedObject.js",
+                "type": "script",
+                "key": "AnimatedObject"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}
